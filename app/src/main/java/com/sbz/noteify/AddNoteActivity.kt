@@ -34,7 +34,7 @@ class AddNoteActivity : AppCompatActivity() {
         repository = NoteRepository(dao)
 
         noteId = intent.getIntExtra("note_id", 0)
-
+        val dateFormat = "dd:M:yyyy hh:mm"
         val time = getCurrentDateWithoutTime()
 
 

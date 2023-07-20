@@ -12,25 +12,12 @@
         android:layout_height="@dimen/_150dp"
         android:layout_margin="@dimen/_10dp"
         android:padding="@dimen/_10dp"
-        android:src="@drawable/notebook"
+        android:src="@drawable/note"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_margin="@dimen/_20dp"
-        android:fontFamily="@font/caprasimo_regular"
-        android:padding="@dimen/_10dp"
-        android:text="@string/note_down_everything"
-        android:textColor="@color/black"
-        android:textSize="@dimen/_20sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
