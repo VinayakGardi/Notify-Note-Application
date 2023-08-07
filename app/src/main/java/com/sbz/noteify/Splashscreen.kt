@@ -5,12 +5,14 @@ import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import androidx.appcompat.app.AppCompatActivity
+import com.sbz.noteify.R.layout
+import com.sbz.noteify.R.layout.activity_splashscreen
 import com.sbz.noteify.util.LOADING_TIME_IN_MILISEC
 
 class Splashscreen : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_splashscreen)
+        setContentView(activity_splashscreen)
 
         Handler(Looper.myLooper()!!).postDelayed(
             {
