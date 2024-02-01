@@ -30,7 +30,6 @@ Notify is a simple and intuitive notes application that allows user to create, m
 - ViewModel - Architecture component for managing UI-related data.
 - LiveData - Observable data holder for communication between components.
 - RecyclerView - Flexible view for displaying lists or grids.
-- 
 
 
 
