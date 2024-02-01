@@ -1,6 +1,8 @@
 # Notify - Simple Notes Application
 
-Notify is a simple and intuitive notes application that allows user to create, manage, and organize notes efficiently. With Notify, you can quickly jot down ideas, to-do lists, reminders, and more, ensuring you never miss out on important information.
+Notify is a simple and intuitive notes application that allows user to create, manage, and organize
+notes efficiently. With Notify, you can quickly jot down ideas, to-do lists, reminders, and more,
+ensuring you never miss out on important information.
 
 ## Features
 
@@ -15,13 +17,16 @@ Notify is a simple and intuitive notes application that allows user to create, m
 
 <!-- Screenshots -->
 
-[//]: # (<div style="display: flex; justify-content: space-between;">)
+<div style="display: flex; justify-content: space-between;">
 
-[//]: # (  <img src="screenshots/screenshot1.png" alt="Screenshot 1" width="300" />)
+  <img src="screenshots/ss1.jpg" alt="Screenshot 1" width="300" />
+  <img src="screenshots/ss2.jpg" alt="Screenshot 2" width="300" />
+  <img src="screenshots/ss3.jpg" alt="Screenshot 3" width="300" />
+  <img src="screenshots/ss4.jpg" alt="Screenshot 4" width="300" />
+  <img src="screenshots/ss5.jpg" alt="Screenshot 5" width="300" />
 
-[//]: # (  <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="300" />)
 
-[//]: # (</div>)
+</div>
 
 ## Technologies Used
 
